@@ -37,7 +37,7 @@ regional performance gaps, and profit optimization opportunities.
 ## Tools Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL
-- Power BI
+- Tableau
 - Excel
 
 ## Files
