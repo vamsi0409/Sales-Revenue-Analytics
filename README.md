@@ -1,5 +1,6 @@
 # Sales & Revenue Analytics
-
+## Dashboard
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/authoring/SalesRevenueAnalyticsDashboard/SalesRevenueAnalyticsDashboard#1)
 ## Project Overview
 Analyzed $2.3M in sales data across 9,994 orders to identify revenue trends, 
 regional performance gaps, and profit optimization opportunities.
