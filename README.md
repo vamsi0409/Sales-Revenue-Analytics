@@ -18,7 +18,14 @@ regional performance gaps, and profit optimization opportunities.
 - **Tables sub-category losing $17,725** — biggest profit drain
 - **Phones and Chairs** are top revenue drivers at $330K and $328K
 - South region underperforming at $391,721 — 41% below West
-
+## Files
+- `sales_analysis.py` — Complete Python analysis
+- `sales_queries.sql` — 8 SQL business queries
+- `run_sales_sql.py` — SQL execution script
+- `sales_by_region.png` — Regional sales chart
+- `profit_by_category.png` — Category profit chart
+- `monthly_sales_trend.png` — Monthly trend chart
+- `superstore_clean.csv` — Cleaned dataset for dashboard
 ## Sales by Region
 | Region | Sales |
 |--------|-------|
