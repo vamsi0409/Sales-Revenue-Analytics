@@ -34,11 +34,11 @@ regional performance gaps, and profit optimization opportunities.
 | Furniture | $741,999 | $18,451 |
 | Office Supplies | $719,047 | $122,490 |
 
+
 ## Tools Used
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib)
 - SQL
 - Tableau
-- Excel
 
 ## Files
 - `sales_analysis.py` — Complete Python analysis
