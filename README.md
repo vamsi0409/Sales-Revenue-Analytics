@@ -21,7 +21,7 @@ profit margin while Central was only 7.9%. Same company, same products,
 very different profitability. That's worth investigating further.
 
 ## Dashboard
-[View Interactive Dashboard on Tableau Public](https://public.tableau.com/authoring/SalesRevenueAnalyticsDashboard/SalesRevenueAnalyticsDashboard#1)
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/vamsi.batchu8113/viz/SalesRevenueAnalyticsDashboard/SalesRevenueAnalyticsDashboard)
 
 ## Key Business Metrics
 - **Total Sales: $2,297,200.86**
